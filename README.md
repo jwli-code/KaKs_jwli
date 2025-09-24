@@ -1,4 +1,6 @@
-'''micromamba create -n kaks'''
+'''
+micromamba create -n kaks
+'''
 micromamba activate kaks
 micromamba install muscle
 micromamba install trimal
