@@ -1,8 +1,7 @@
-'''
-micromamba create -n kaks
-'''
-micromamba activate kaks
-micromamba install muscle
-micromamba install trimal
-micromamba install gblocks
-micromamba install pal2nal
+# KaKs 分析软件安装指南
+
+本指南介绍如何使用 micromamba 安装 KaKs 分析所需的软件环境。
+
+## 安装步骤
+
+### 1. 创建新环境
