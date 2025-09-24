@@ -28,3 +28,4 @@ This tool calculates Ka/Ks ratios for gene pairs using:
 | `-h`, `--help` | Show this help message and exit |
 
 ## Example Usage
+`KaKs_jwli.sh -p genepair.list -1 sample1.cds -2 sample2.cds -a sample1.pep -b sample2.pep -o results`
